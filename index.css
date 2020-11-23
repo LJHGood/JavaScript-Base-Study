@@ -1,0 +1,29 @@
+body {
+  background-color: gray;
+}
+
+#title {
+  background-color: aqua;
+}
+
+.cc {
+  background-color: blue;
+}
+
+.idid {
+  background-color: aqua;
+}
+
+.base-color {
+  background-color: blueviolet;
+  transition: color 0.5s ease-in-out;
+  color: white;
+}
+
+.change-color {
+  background-color: aquamarine;
+}
+
+.test {
+  cursor: pointer;
+}
